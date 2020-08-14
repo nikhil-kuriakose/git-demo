@@ -1,0 +1,3 @@
+Started the app
+initialization success!
+Error in Loading!
